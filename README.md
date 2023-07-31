@@ -6,3 +6,5 @@ Main: path = "haarcascade_frontalface_default.xml"
 cv2.imshow("img", image)
 cv2.waitKey(1)
 Run the code use run icon option
+
+video link my drive: https://drive.google.com/file/d/1olrwGpb7bXDm1n_d0tk8p2jK6MFVmKtI/view?usp=sharing
